@@ -6,7 +6,7 @@ getting user integer input
 
 usage: import pr_test
 """
-
+#I wrote the second commit.
 def get_positive_integer_input(question_string):
     """keeps asking the user for input until they either respond with an integer or quit
     returns None if the user quits, otherwise returns the integer
